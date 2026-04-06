@@ -1,0 +1,17 @@
+.states
+*.db
+*.py[cod]
+.web
+assets/external/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.web/
+node_modules/
+data/uploads/
+.reflex/
+*.egg-info/
+dist/
+build/
+.DS_Store
